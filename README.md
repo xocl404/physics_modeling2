@@ -12,3 +12,4 @@
 Внешний радиус R = 19 см  
 Начальная скорость V = 950000 м/c  
 Длина конденсатора L = 27 см
+![Figure_1](https://github.com/user-attachments/assets/52de6303-ecec-4174-b561-c224e7fdce16)
